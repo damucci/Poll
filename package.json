@@ -1,0 +1,10 @@
+{
+  "name": "PolMean",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.8",
+    "socket.io": "^1.4.5"
+  }
+}
